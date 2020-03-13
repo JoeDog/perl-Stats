@@ -1,0 +1,8 @@
+COPYING
+MANIFEST
+Makefile.PL
+README
+Stats.pm
+test.pl
+test.txt
+META.yml                                 Module meta-data (added by MakeMaker)
